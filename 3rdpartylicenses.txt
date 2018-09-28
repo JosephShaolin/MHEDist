@@ -71,7 +71,7 @@ THE SOFTWARE.
 MIT
 MIT
 
-ng2-ckeditor@1.2.0
+ng2-ckeditor@1.2.1
 MIT
 The MIT License (MIT)
 
